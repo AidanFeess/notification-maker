@@ -1,3 +1,4 @@
+--[[
 NOISYAIDAN1022 // March 2023:
 
 
@@ -73,3 +74,4 @@ Parameters Reference (CASE SENSITIVE)
 		> The Enum easing direction for the tween that plays whenever the notification appears, default is InOut
 	- GroupNotification
 		> Defines if the message should be sent to all players  or just one, takes a boolean value and is not required
+]]
